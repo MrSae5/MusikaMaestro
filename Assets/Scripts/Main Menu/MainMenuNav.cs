@@ -20,10 +20,10 @@ public class MainMenuNav : MonoBehaviour
 
     }
 
-    public void MoveUp() { Move(new Vector2(0, Screen.height)); }
-    public void MoveDown() { Move(new Vector2(0, -Screen.height)); }
-    public void MoveLeft() { Move(new Vector2(-Screen.width, 0)); }
-    public void MoveRight() { Move(new Vector2(Screen.width, 0)); }
+    public void MoveUp() { Move(new Vector2(0, 1080)); }
+    public void MoveDown() { Move(new Vector2(0, -1080)); }
+    public void MoveLeft() { Move(new Vector2(-1920, 0)); }
+    public void MoveRight() { Move(new Vector2(1920, 0)); }
 
     public void SetLevelsPanel(bool enable) { _levelsPanel.SetActive(enable); }
 
