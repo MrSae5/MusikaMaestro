@@ -61,9 +61,10 @@
     <Analyzer Include="C:\Unity editors\6000.0.50f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\UI\SystemSoundManager.cs" />
+    <Compile Include="Assets\Scripts\UI\SystemSoundSlider.cs" />
     <Compile Include="Assets\Scripts\Main Menu\MainMenuNav.cs" />
     <Compile Include="Assets\Scripts\Game Scene\ButtonsColorController.cs" />
+    <Compile Include="Assets\Scripts\UI\SystemSoundMute.cs" />
     <Compile Include="Assets\Scripts\UI\TextController.cs" />
     <Compile Include="Assets\Scripts\UI\TextSizeSlider.cs" />
     <Compile Include="Assets\Scripts\UI\ToggleManager.cs" />

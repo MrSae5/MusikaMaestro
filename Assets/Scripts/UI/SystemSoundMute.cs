@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class SoundToggleButton : MonoBehaviour
+public class SystemSoundMute : MonoBehaviour
 {
     [Header("Audio")]
     public AudioSource audioSource; // el audio que quieres silenciar
