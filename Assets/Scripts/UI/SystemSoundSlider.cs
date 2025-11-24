@@ -3,10 +3,7 @@ using UnityEngine.UI;
 
 public class SystemSoundSlider : MonoBehaviour
 {
-    [Header("Audio")]
     public AudioSource audioSource;
-
-    [Header("UI")]
     public Slider slider;
 
     void Start()
