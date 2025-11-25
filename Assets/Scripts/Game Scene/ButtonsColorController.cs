@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 
-// It's not workiiiing
+// NO SE USA YA
 public class ButtonsColorController : MonoBehaviour
 {
     [Header("Botones")]
