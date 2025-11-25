@@ -1327,6 +1327,22 @@ PrefabInstance:
       propertyPath: m_HorizontalAlignment
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2686311249480218801, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 2734718485531121915, guid: ac1e42c6770322449babf7457cd759f4, type: 3}
+    - target: {fileID: 2686311249480218801, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686311249480218801, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686311249480218801, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3737866350781040313, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 50
@@ -1334,6 +1350,22 @@ PrefabInstance:
     - target: {fileID: 6820603475187022050, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
       propertyPath: m_Name
       value: Controles
+      objectReference: {fileID: 0}
+    - target: {fileID: 7865238795366098253, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 95.663
+      objectReference: {fileID: 0}
+    - target: {fileID: 7865238795366098253, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 72.5392
+      objectReference: {fileID: 0}
+    - target: {fileID: 7865238795366098253, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -101
+      objectReference: {fileID: 0}
+    - target: {fileID: 7865238795366098253, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.00000095367
       objectReference: {fileID: 0}
     - target: {fileID: 7896198214033928620, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
       propertyPath: m_Pivot.x
@@ -2140,15 +2172,15 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: 894ff1dd383506440ac41effb104c45e, type: 3}
     - target: {fileID: 2686311249480218801, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
       propertyPath: m_Color.b
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2686311249480218801, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
       propertyPath: m_Color.g
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2686311249480218801, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
       propertyPath: m_Color.r
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3737866350781040313, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -6491,6 +6523,22 @@ PrefabInstance:
       propertyPath: m_HorizontalAlignment
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2686311249480218801, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 3fd38afba9d26a943a493bee3d95cd32, type: 3}
+    - target: {fileID: 2686311249480218801, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686311249480218801, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686311249480218801, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3737866350781040313, guid: 2fd412e2fe6bbe74885344d82e2d04c1, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 50
@@ -9910,8 +9958,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 73c3b7da0fe9c73408b5ed15a3935336, type: 3}
-  m_Resource: {fileID: 8300000, guid: 73c3b7da0fe9c73408b5ed15a3935336, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 90d7d23abc403844ab18a2727de81d5e, type: 3}
+  m_Resource: {fileID: 8300000, guid: 90d7d23abc403844ab18a2727de81d5e, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
