@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Main Menu\MainMenuNav.cs" />
     <Compile Include="Assets\Scripts\Game Scene\ButtonsColorController.cs" />
     <Compile Include="Assets\Scripts\UI\SystemSoundMute.cs" />
+    <Compile Include="Assets\Scripts\Main Menu\AutoLoad.cs" />
     <Compile Include="Assets\Scripts\UI\TextController.cs" />
     <Compile Include="Assets\Scripts\UI\TextSizeSlider.cs" />
     <Compile Include="Assets\Scripts\UI\ToggleManager.cs" />
