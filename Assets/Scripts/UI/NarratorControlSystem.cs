@@ -11,23 +11,19 @@ public class NarratorControlSystem : MonoBehaviour
     // Llama esto cuando cambias de pantalla
     public void ShowScreen(int index)
     {
-        // Solo activa la pantalla que quieres mostrar
         screens[index].SetActive(true);
 
-        // Recorre todos los paneles para manejar los audios
         for (int i = 0; i < screens.Length; i++)
         {
             bool isActive = screens[i].activeSelf;
 
             if (toggle.isOn && i == index)
             {
-                // Reproduce el audio del panel actual si el toggle está activado
                 if (!screenAudios[i].isPlaying)
                     screenAudios[i].Play();
             }
             else
             {
-                // Detiene el audio de los otros paneles
                 if (screenAudios[i].isPlaying)
                     screenAudios[i].Stop();
             }
