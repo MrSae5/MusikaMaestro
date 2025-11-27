@@ -3451,7 +3451,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: LOGO TITLE
+  m_text: MUSIKA MAESTRO!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 772e06fba8e25914586fa3af17c085ce, type: 2}
   m_sharedMaterial: {fileID: -2096052505953684761, guid: 772e06fba8e25914586fa3af17c085ce, type: 2}
