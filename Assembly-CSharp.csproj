@@ -55,7 +55,7 @@
     <UnityVersion>6000.0.50f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.50f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.50f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.50f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
@@ -65,12 +65,14 @@
     <Compile Include="Assets\Scripts\Main Menu\MainMenuNav.cs" />
     <Compile Include="Assets\Scripts\Game Scene\ButtonsColorController.cs" />
     <Compile Include="Assets\Scripts\UI\SystemSoundMute.cs" />
+    <Compile Include="Assets\Scripts\UI\MusicController.cs" />
     <Compile Include="Assets\Scripts\Main Menu\AutoLoad.cs" />
     <Compile Include="Assets\Scripts\UI\NavigationController.cs" />
     <Compile Include="Assets\Scripts\UI\TextController.cs" />
     <Compile Include="Assets\Scripts\UI\TextSizeSlider.cs" />
     <Compile Include="Assets\Scripts\UI\NarratorControlSystem.cs" />
     <Compile Include="Assets\Scripts\UI\ToggleManager.cs" />
+    <Compile Include="Assets\Scripts\UI\UIButtonAudio.cs" />
     <Compile Include="Assets\Scripts\Game Scene\AudioController.cs" />
     <Compile Include="Assets\Scripts\UI\ButtonManager.cs" />
   </ItemGroup>
