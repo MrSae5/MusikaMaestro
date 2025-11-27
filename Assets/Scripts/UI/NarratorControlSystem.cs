@@ -11,12 +11,13 @@ public class NarratorControlSystem : MonoBehaviour
     // Llama esto cuando cambias de pantalla
     public void ShowScreen(int index)
     {
+        screens[index].SetActive(true);
+
         for (int i = 0; i < screens.Length; i++)
         {
-            bool isActive = (i == index);
-            screens[i].SetActive(isActive);
+            bool isActive = screens[i].activeSelf;
 
-            if (toggle.isOn && isActive)
+            if (toggle.isOn && i == index)
             {
                 if (!screenAudios[i].isPlaying)
                     screenAudios[i].Play();
@@ -28,6 +29,7 @@ public class NarratorControlSystem : MonoBehaviour
             }
         }
     }
+
 
     // Llama esto si se cambia el toggle mientras la pantalla está activa
     public void OnToggleChanged()
