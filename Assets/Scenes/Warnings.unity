@@ -3422,6 +3422,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   delay: 8
+  delay: 12
 --- !u!1 &2085754571
 GameObject:
   m_ObjectHideFlags: 0
