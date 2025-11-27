@@ -8,40 +8,40 @@ public class NarratorControlSystem : MonoBehaviour
     public AudioSource[] screenAudios;  // Audio correspondiente a cada pantalla
     public Toggle toggle;               // Toggle general para activar/desactivar audios
 
-    // Llama esto cuando cambias de pantalla
+    // Se llama al cambiar de pantalla
     public void ShowScreen(int index)
     {
-        screens[index].SetActive(true);
-
         for (int i = 0; i < screens.Length; i++)
         {
-            bool isActive = screens[i].activeSelf;
+            bool isActive = (i == index);
+            screens[i].SetActive(isActive);
 
-            if (toggle.isOn && i == index)
+            if (toggle.isOn && isActive)
             {
-                if (!screenAudios[i].isPlaying)
-                    screenAudios[i].Play();
+                screenAudios[i].Play();
             }
             else
             {
-                if (screenAudios[i].isPlaying)
-                    screenAudios[i].Stop();
+                screenAudios[i].Stop();
             }
         }
     }
 
-
-    // Llama esto si se cambia el toggle mientras la pantalla está activa
+    // Se llama cuando cambia el toggle
     public void OnToggleChanged()
     {
         for (int i = 0; i < screens.Length; i++)
         {
-            if (screens[i].activeSelf)
+            if (screens[i].activeSelf)   // Solo la pantalla activa
             {
                 if (toggle.isOn)
                     screenAudios[i].Play();
                 else
                     screenAudios[i].Stop();
+            }
+            else
+            {
+                screenAudios[i].Stop(); // Seguridad: nunca suene una pantalla oculta
             }
         }
     }
