@@ -840,6 +840,12 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
       objectReference: {fileID: 1289155398}
+    - target: {fileID: 8443562157974445140, guid: 42520f2a3b464af4c84b744eec2a94ba, type: 3}
+      propertyPath: m_text
+      value: 'MUSIKA MAESTRO!
+
+'
+      objectReference: {fileID: 0}
     - target: {fileID: 8592203969178111498, guid: 42520f2a3b464af4c84b744eec2a94ba, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
