@@ -1,0 +1,3523 @@
+fileFormatVersion: 2
+guid: 879ab72b4077e554f922b9a72fea69fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3287302075759931767
+    second: circulolol_0
+  - first:
+      213: -5710655318140866050
+    second: circulolol_1
+  - first:
+      213: -4236505677857388867
+    second: circulolol_2
+  - first:
+      213: -5342929454853433869
+    second: circulolol_3
+  - first:
+      213: -2943815922480929389
+    second: circulolol_4
+  - first:
+      213: -6248338409586852644
+    second: circulolol_5
+  - first:
+      213: -9065206873367141210
+    second: circulolol_6
+  - first:
+      213: -922761183120374761
+    second: circulolol_7
+  - first:
+      213: 5511699257338369329
+    second: circulolol_8
+  - first:
+      213: -3157999988669185281
+    second: circulolol_9
+  - first:
+      213: -1096421818707940053
+    second: circulolol_10
+  - first:
+      213: -8027073836623558646
+    second: circulolol_11
+  - first:
+      213: -3197347153617934639
+    second: circulolol_12
+  - first:
+      213: -3638826706532288068
+    second: circulolol_13
+  - first:
+      213: -6537024971762731058
+    second: circulolol_14
+  - first:
+      213: 4950680107592276995
+    second: circulolol_15
+  - first:
+      213: 1614250800106982331
+    second: circulolol_16
+  - first:
+      213: 9026486308668051804
+    second: circulolol_17
+  - first:
+      213: 3180763310482100174
+    second: circulolol_18
+  - first:
+      213: 3411041087311208206
+    second: circulolol_19
+  - first:
+      213: 3904808201483377978
+    second: circulolol_20
+  - first:
+      213: -8914507387689078413
+    second: circulolol_21
+  - first:
+      213: -7758369735144961485
+    second: circulolol_22
+  - first:
+      213: 8905853749177813437
+    second: circulolol_23
+  - first:
+      213: -2833791287894475194
+    second: circulolol_24
+  - first:
+      213: -8722473629032116663
+    second: circulolol_25
+  - first:
+      213: -2094751205223540709
+    second: circulolol_26
+  - first:
+      213: -7936708343912564718
+    second: circulolol_27
+  - first:
+      213: -5191739371304387184
+    second: circulolol_28
+  - first:
+      213: -5503705795022688889
+    second: circulolol_29
+  - first:
+      213: 3023676562305251056
+    second: circulolol_30
+  - first:
+      213: -849926741900124992
+    second: circulolol_31
+  - first:
+      213: 2191606929456345386
+    second: circulolol_32
+  - first:
+      213: 827935132898775905
+    second: circulolol_33
+  - first:
+      213: -2542305569212138458
+    second: circulolol_34
+  - first:
+      213: 1692228601820434471
+    second: circulolol_35
+  - first:
+      213: 3180846490020964030
+    second: circulolol_36
+  - first:
+      213: -642023375379622048
+    second: circulolol_37
+  - first:
+      213: -7153519017019770825
+    second: circulolol_38
+  - first:
+      213: -5926355271024277544
+    second: circulolol_39
+  - first:
+      213: 2813076281543521444
+    second: circulolol_40
+  - first:
+      213: -4953205951427601499
+    second: circulolol_41
+  - first:
+      213: -1606086065892253770
+    second: circulolol_42
+  - first:
+      213: 4030600249804352372
+    second: circulolol_43
+  - first:
+      213: -6295107578987381765
+    second: circulolol_44
+  - first:
+      213: -1143049852915152512
+    second: circulolol_45
+  - first:
+      213: -6472469651485911635
+    second: circulolol_46
+  - first:
+      213: 7690165052374290659
+    second: circulolol_47
+  - first:
+      213: -985590746554286282
+    second: circulolol_48
+  - first:
+      213: -6734626258503557349
+    second: circulolol_49
+  - first:
+      213: 7900114565033029076
+    second: circulolol_50
+  - first:
+      213: 1666800482885252875
+    second: circulolol_51
+  - first:
+      213: -4789687114194433183
+    second: circulolol_52
+  - first:
+      213: 5354822990347482042
+    second: circulolol_53
+  - first:
+      213: 6800041380980209203
+    second: circulolol_54
+  - first:
+      213: 8125397594499247511
+    second: circulolol_55
+  - first:
+      213: 5764404122187605028
+    second: circulolol_56
+  - first:
+      213: -1583834120666724367
+    second: circulolol_57
+  - first:
+      213: -6438569542756889256
+    second: circulolol_58
+  - first:
+      213: 4289283696259534204
+    second: circulolol_59
+  - first:
+      213: -6585207139041665887
+    second: circulolol_60
+  - first:
+      213: 1484579388791411741
+    second: circulolol_61
+  - first:
+      213: 1120166649105207208
+    second: circulolol_62
+  - first:
+      213: -3833626295555020450
+    second: circulolol_63
+  - first:
+      213: 3825673647793562120
+    second: circulolol_64
+  - first:
+      213: 6725670849381109386
+    second: circulolol_65
+  - first:
+      213: 7306865162553102975
+    second: circulolol_66
+  - first:
+      213: 6105789862601869120
+    second: circulolol_67
+  - first:
+      213: -952244104190394317
+    second: circulolol_68
+  - first:
+      213: -2143086421340242462
+    second: circulolol_69
+  - first:
+      213: -7901779968253669121
+    second: circulolol_70
+  - first:
+      213: -120264764038205416
+    second: circulolol_71
+  - first:
+      213: -6150663252089608181
+    second: circulolol_72
+  - first:
+      213: -4970437277436914461
+    second: circulolol_73
+  - first:
+      213: -5597546445553611585
+    second: circulolol_74
+  - first:
+      213: -4174606992740832134
+    second: circulolol_75
+  - first:
+      213: -2015224159484046995
+    second: circulolol_76
+  - first:
+      213: 3507925754019026745
+    second: circulolol_77
+  - first:
+      213: 6102242446744829780
+    second: circulolol_78
+  - first:
+      213: -3017082365778025541
+    second: circulolol_79
+  - first:
+      213: 1743850289402092092
+    second: circulolol_80
+  - first:
+      213: -1086746922207273537
+    second: circulolol_81
+  - first:
+      213: 910471471430807499
+    second: circulolol_82
+  - first:
+      213: 328883843089080525
+    second: circulolol_83
+  - first:
+      213: 3579311510126970014
+    second: circulolol_84
+  - first:
+      213: 8896031344472211185
+    second: circulolol_85
+  - first:
+      213: -7444777898454672116
+    second: circulolol_86
+  - first:
+      213: -6405907634328986406
+    second: circulolol_87
+  - first:
+      213: -6033702659651097288
+    second: circulolol_88
+  - first:
+      213: 4732797142946220544
+    second: circulolol_89
+  - first:
+      213: -6952517594616497272
+    second: circulolol_90
+  - first:
+      213: -7130648671812898986
+    second: circulolol_91
+  - first:
+      213: 8933290946047528392
+    second: circulolol_92
+  - first:
+      213: 6156722277423854435
+    second: circulolol_93
+  - first:
+      213: -8898889800136806781
+    second: circulolol_94
+  - first:
+      213: 254963720635369167
+    second: circulolol_95
+  - first:
+      213: 8756747070324259562
+    second: circulolol_96
+  - first:
+      213: 2410331445297676519
+    second: circulolol_97
+  - first:
+      213: -2630799067341118690
+    second: circulolol_98
+  - first:
+      213: 5435850509961634829
+    second: circulolol_99
+  - first:
+      213: -7765205092686528176
+    second: circulolol_100
+  - first:
+      213: 278598398723915478
+    second: circulolol_101
+  - first:
+      213: -5677021828990527297
+    second: circulolol_102
+  - first:
+      213: 3590863973239216735
+    second: circulolol_103
+  - first:
+      213: -8218984162443709596
+    second: circulolol_104
+  - first:
+      213: -1877010355560508440
+    second: circulolol_105
+  - first:
+      213: 8516588210415950891
+    second: circulolol_106
+  - first:
+      213: -9049334826899162654
+    second: circulolol_107
+  - first:
+      213: -8208921574194827619
+    second: circulolol_108
+  - first:
+      213: 878086730687567556
+    second: circulolol_109
+  - first:
+      213: -7234364848598527265
+    second: circulolol_110
+  - first:
+      213: -3216491601997821742
+    second: circulolol_111
+  - first:
+      213: -926946016709323982
+    second: circulolol_112
+  - first:
+      213: -3251946810544542975
+    second: circulolol_113
+  - first:
+      213: -6279611697620439605
+    second: circulolol_114
+  - first:
+      213: 1129802292465543740
+    second: circulolol_115
+  - first:
+      213: -8384429008404732080
+    second: circulolol_116
+  - first:
+      213: 2346686695260738506
+    second: circulolol_117
+  - first:
+      213: 4845313007853280359
+    second: circulolol_118
+  - first:
+      213: -4085792368431423383
+    second: circulolol_119
+  - first:
+      213: 1081940579797827702
+    second: circulolol_120
+  - first:
+      213: -770400208691840567
+    second: circulolol_121
+  - first:
+      213: 3314273968413289375
+    second: circulolol_122
+  - first:
+      213: -5050397537574651861
+    second: circulolol_123
+  - first:
+      213: 7994940622712437187
+    second: circulolol_124
+  - first:
+      213: 1460266381924365053
+    second: circulolol_125
+  - first:
+      213: 1284290053839532242
+    second: circulolol_126
+  - first:
+      213: 2914967162223440599
+    second: circulolol_127
+  - first:
+      213: 1977168523711319671
+    second: circulolol_128
+  - first:
+      213: -2628666223003460524
+    second: circulolol_129
+  - first:
+      213: 2819191203916908202
+    second: circulolol_130
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: circulolol_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ecce0dd282162d0800000000000000
+      internalID: -3287302075759931767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1b4879e3dafb0b0800000000000000
+      internalID: -5710655318140866050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 142
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6826e2888e435c0800000000000000
+      internalID: -4236505677857388867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 142
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f55d7708f91ad5b0800000000000000
+      internalID: -5342929454853433869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 132
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395a268f3077527d0800000000000000
+      internalID: -2943815922480929389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 143
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc752452517949a0800000000000000
+      internalID: -6248338409586852644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 142
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4a581d06ae13280800000000000000
+      internalID: -9065206873367141210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 142
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714479bc791b133f0800000000000000
+      internalID: -922761183120374761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 142
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1351076b54d7d7c40800000000000000
+      internalID: 5511699257338369329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 143
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff28faafdb78c24d0800000000000000
+      internalID: -3157999988669185281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 133
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2deceb3a2ab8c0f0800000000000000
+      internalID: -1096421818707940053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a088836ffda1a9090800000000000000
+      internalID: -8027073836623558646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d62ffc34bdb0a3d0800000000000000
+      internalID: -3197347153617934639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 132
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb930f5c36a408dc0800000000000000
+      internalID: -3638826706532288068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7793e3c62d745a0800000000000000
+      internalID: -6537024971762731058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 132
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c51a9f35954b440800000000000000
+      internalID: 4950680107592276995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 132
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb44cecc88f66610800000000000000
+      internalID: 1614250800106982331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51161e2975844d70800000000000000
+      internalID: 9026486308668051804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 133
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf81e3e067542c20800000000000000
+      internalID: 3180763310482100174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 123
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f5273ebc3765f20800000000000000
+      internalID: 3411041087311208206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_20
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3dd275ee5aa03630800000000000000
+      internalID: 3904808201483377978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 122
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371723113ce494480800000000000000
+      internalID: -8914507387689078413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 42
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a0b8cd4dbb45490800000000000000
+      internalID: -7758369735144961485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 122
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db90355bcc2f79b70800000000000000
+      internalID: 8905853749177813437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 122
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ef37576d95ca8d0800000000000000
+      internalID: -2833791287894475194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 122
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e04d2b27c83f680800000000000000
+      internalID: -8722473629032116663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 122
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1854d790e2fde2e0800000000000000
+      internalID: -2094751205223540709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 121
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218763bcfc52bd190800000000000000
+      internalID: -7936708343912564718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 122
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dfdfe7c8c33f7b0800000000000000
+      internalID: -5191739371304387184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 122
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78de9634db8ee93b0800000000000000
+      internalID: -5503705795022688889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_30
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6f0e330d146f920800000000000000
+      internalID: 3023676562305251056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 123
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc10ff91247434f0800000000000000
+      internalID: -849926741900124992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 113
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21b78504e62a6e10800000000000000
+      internalID: 2191606929456345386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 113
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1635f75ed9a6d7b00800000000000000
+      internalID: 827935132898775905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cfc94fd8ae7bcd0800000000000000
+      internalID: -2542305569212138458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720534292f00c7710800000000000000
+      internalID: 1692228601820434471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_36
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 112
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb66fb2a703a42c20800000000000000
+      internalID: 3180846490020964030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067100544231717f0800000000000000
+      internalID: -642023375379622048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 94
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738f880ea5899bc90800000000000000
+      internalID: -7153519017019770825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_39
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d785d9b74b51cda0800000000000000
+      internalID: -5926355271024277544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a47a7749fd0a0720800000000000000
+      internalID: 2813076281543521444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 103
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab9ecd2e6da24bb0800000000000000
+      internalID: -4953205951427601499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_42
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 93
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf99c38b3906b9e0800000000000000
+      internalID: -1606086065892253770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_43
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 102
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b603972919fe730800000000000000
+      internalID: 4030600249804352372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 92
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb7693820943a8a0800000000000000
+      internalID: -6295107578987381765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_45
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 102
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0890e6407321320f0800000000000000
+      internalID: -1143049852915152512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_46
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da59fa3052b2d26a0800000000000000
+      internalID: -6472469651485911635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_47
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 102
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e094e2fe54f8ba60800000000000000
+      internalID: 7690165052374290659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_48
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f38b9107a7252f0800000000000000
+      internalID: -985590746554286282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 103
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f90e6791dc982a0800000000000000
+      internalID: -6734626258503557349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 93
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddeead1758d2ad60800000000000000
+      internalID: 7900114565033029076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0733d5453aa12710800000000000000
+      internalID: 1666800482885252875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 93
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bcc2d42fc978db0800000000000000
+      internalID: -4789687114194433183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3b1ce7327205a40800000000000000
+      internalID: 5354822990347482042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 84
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336384b9b999e5e50800000000000000
+      internalID: 6800041380980209203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_55
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79de0fedf0633c070800000000000000
+      internalID: 8125397594499247511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 82
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4242acc02074fff40800000000000000
+      internalID: 5764404122187605028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_57
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 72
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7448e3247150ae0800000000000000
+      internalID: -1583834120666724367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_58
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d83562d1b95a6a0800000000000000
+      internalID: -6438569542756889256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_59
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 83
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d8c60dbc8968b30800000000000000
+      internalID: 4289283696259534204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_60
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 83
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac1e093ff4ac94a0800000000000000
+      internalID: -6585207139041665887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_61
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1457c5a6194a9410800000000000000
+      internalID: 1484579388791411741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afc729e1a1ab8f00800000000000000
+      internalID: 1120166649105207208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_63
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59a8d312393ccac0800000000000000
+      internalID: -3833626295555020450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 73
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802ee43d9e5871530800000000000000
+      internalID: 3825673647793562120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_65
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 72
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e8f8dd002665d50800000000000000
+      internalID: 6725670849381109386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_66
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 73
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7297a3e623376560800000000000000
+      internalID: 7306865162553102975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_67
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 73
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047c099b78f1cb450800000000000000
+      internalID: 6105789862601869120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_68
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330854e4803f8c2f0800000000000000
+      internalID: -952244104190394317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_69
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed3d0d114a3242e0800000000000000
+      internalID: -2143086421340242462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff051fafbfc375290800000000000000
+      internalID: -7901779968253669121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_71
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810b18495dbb45ef0800000000000000
+      internalID: -120264764038205416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_72
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 64
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08662e1c5474aaa0800000000000000
+      internalID: -6150663252089608181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 62
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4530471a5750bb0800000000000000
+      internalID: -4970437277436914461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_74
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 62
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcc6033a258152b0800000000000000
+      internalID: -5597546445553611585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_75
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 63
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c22d0ee01d016c0800000000000000
+      internalID: -4174606992740832134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_76
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d611b27dd4c7804e0800000000000000
+      internalID: -2015224159484046995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_77
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9379fb233e7aea030800000000000000
+      internalID: 3507925754019026745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_78
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f398b9c258fa450800000000000000
+      internalID: 6102242446744829780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 54
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3a4b1d29b2126d0800000000000000
+      internalID: -3017082365778025541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_80
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a16415996633810800000000000000
+      internalID: 1743850289402092092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_81
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 53
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd161d9e691be0f0800000000000000
+      internalID: -1086746922207273537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_82
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 53
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfa2c8baf4a2ac00800000000000000
+      internalID: 910471471430807499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_83
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 52
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0a0bfdc1e609400800000000000000
+      internalID: 328883843089080525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_84
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 53
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94c59dbad44ca130800000000000000
+      internalID: 3579311510126970014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_85
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 54
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb106ef5d057b70800000000000000
+      internalID: 8896031344472211185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_86
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 55
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d1eea02f5dea890800000000000000
+      internalID: -7444777898454672116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 44
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc9bdf42f4a917a0800000000000000
+      internalID: -6405907634328986406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_88
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83daa23266bf34ca0800000000000000
+      internalID: -6033702659651097288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_89
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 44
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a0b431de54ea140800000000000000
+      internalID: 4732797142946220544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_90
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bfa3e6512b38f90800000000000000
+      internalID: -6952517594616497272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_91
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 43
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f2b7210d8da0d90800000000000000
+      internalID: -7130648671812898986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_92
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 44
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd406ae8cc69fb70800000000000000
+      internalID: 8933290946047528392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_93
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 44
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3633596aa42117550800000000000000
+      internalID: 6156722277423854435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_94
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 35
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38eaf7700eac08480800000000000000
+      internalID: -8898889800136806781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_95
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6451f2720d98300800000000000000
+      internalID: 254963720635369167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_96
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeabe92b017368970800000000000000
+      internalID: 8756747070324259562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_97
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e00ce3dda7337120800000000000000
+      internalID: 2410331445297676519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_98
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1324b3df268d7bd0800000000000000
+      internalID: -2630799067341118690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_99
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04a36a0d35007b40800000000000000
+      internalID: 5435850509961634829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_100
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0518d5a2c137c3490800000000000000
+      internalID: -7765205092686528176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de7eee74c7cdd300800000000000000
+      internalID: 278598398723915478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_102
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 34
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb891e489ba2731b0800000000000000
+      internalID: -5677021828990527297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_103
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 34
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5adba922cf45d130800000000000000
+      internalID: 3590863973239216735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_104
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4633bf6437d40fd80800000000000000
+      internalID: -8218984162443709596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_105
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 35
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e31615c60583f5e0800000000000000
+      internalID: -1877010355560508440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_106
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c5f14cadff03670800000000000000
+      internalID: 8516588210415950891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_107
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 25
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9ba1d9bed4a6280800000000000000
+      internalID: -9049334826899162654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ea31d225d041e80800000000000000
+      internalID: -8208921574194827619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_109
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6dd90ba379f2c00800000000000000
+      internalID: 878086730687567556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_110
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd256bfdf7f5a9b90800000000000000
+      internalID: -7234364848598527265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_111
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d884effde9bc53d0800000000000000
+      internalID: -3216491601997821742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_112
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233d31c4283d223f0800000000000000
+      internalID: -926946016709323982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b2709fa93ced2d0800000000000000
+      internalID: -3251946810544542975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_114
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd22fb8e665ad8a0800000000000000
+      internalID: -6279611697620439605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_115
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3aa4d4f23dddaf00800000000000000
+      internalID: 1129802292465543740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_116
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 25
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0572e8d4d3684ab80800000000000000
+      internalID: -8384429008404732080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_117
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3d626bd1b119020800000000000000
+      internalID: 2346686695260738506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_118
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 15
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c9ca252820e3340800000000000000
+      internalID: 4845313007853280359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_119
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960a4a50d795c47c0800000000000000
+      internalID: -4085792368431423383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_120
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6700ee69933d30f00800000000000000
+      internalID: 1081940579797827702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_121
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9390a871dfe45f0800000000000000
+      internalID: -770400208691840567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_122
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b299f4d9aaefd20800000000000000
+      internalID: 3314273968413289375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28fa5e923269e9b0800000000000000
+      internalID: -5050397537574651861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_124
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c97d19232cb3fe60800000000000000
+      internalID: 7994940622712437187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_125
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 15
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2fb0c9988e34410800000000000000
+      internalID: 1460266381924365053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_126
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d03cafdff6b2d110800000000000000
+      internalID: 1284290053839532242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_127
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2b14c903b047820800000000000000
+      internalID: 2914967162223440599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_128
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e85ecfb40507b10800000000000000
+      internalID: 1977168523711319671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_129
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 6
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c9fc85ff9158bd0800000000000000
+      internalID: -2628666223003460524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circulolol_130
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa68f579677cf1720800000000000000
+      internalID: 2819191203916908202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      circulolol_0: -3287302075759931767
+      circulolol_1: -5710655318140866050
+      circulolol_10: -1096421818707940053
+      circulolol_100: -7765205092686528176
+      circulolol_101: 278598398723915478
+      circulolol_102: -5677021828990527297
+      circulolol_103: 3590863973239216735
+      circulolol_104: -8218984162443709596
+      circulolol_105: -1877010355560508440
+      circulolol_106: 8516588210415950891
+      circulolol_107: -9049334826899162654
+      circulolol_108: -8208921574194827619
+      circulolol_109: 878086730687567556
+      circulolol_11: -8027073836623558646
+      circulolol_110: -7234364848598527265
+      circulolol_111: -3216491601997821742
+      circulolol_112: -926946016709323982
+      circulolol_113: -3251946810544542975
+      circulolol_114: -6279611697620439605
+      circulolol_115: 1129802292465543740
+      circulolol_116: -8384429008404732080
+      circulolol_117: 2346686695260738506
+      circulolol_118: 4845313007853280359
+      circulolol_119: -4085792368431423383
+      circulolol_12: -3197347153617934639
+      circulolol_120: 1081940579797827702
+      circulolol_121: -770400208691840567
+      circulolol_122: 3314273968413289375
+      circulolol_123: -5050397537574651861
+      circulolol_124: 7994940622712437187
+      circulolol_125: 1460266381924365053
+      circulolol_126: 1284290053839532242
+      circulolol_127: 2914967162223440599
+      circulolol_128: 1977168523711319671
+      circulolol_129: -2628666223003460524
+      circulolol_13: -3638826706532288068
+      circulolol_130: 2819191203916908202
+      circulolol_14: -6537024971762731058
+      circulolol_15: 4950680107592276995
+      circulolol_16: 1614250800106982331
+      circulolol_17: 9026486308668051804
+      circulolol_18: 3180763310482100174
+      circulolol_19: 3411041087311208206
+      circulolol_2: -4236505677857388867
+      circulolol_20: 3904808201483377978
+      circulolol_21: -8914507387689078413
+      circulolol_22: -7758369735144961485
+      circulolol_23: 8905853749177813437
+      circulolol_24: -2833791287894475194
+      circulolol_25: -8722473629032116663
+      circulolol_26: -2094751205223540709
+      circulolol_27: -7936708343912564718
+      circulolol_28: -5191739371304387184
+      circulolol_29: -5503705795022688889
+      circulolol_3: -5342929454853433869
+      circulolol_30: 3023676562305251056
+      circulolol_31: -849926741900124992
+      circulolol_32: 2191606929456345386
+      circulolol_33: 827935132898775905
+      circulolol_34: -2542305569212138458
+      circulolol_35: 1692228601820434471
+      circulolol_36: 3180846490020964030
+      circulolol_37: -642023375379622048
+      circulolol_38: -7153519017019770825
+      circulolol_39: -5926355271024277544
+      circulolol_4: -2943815922480929389
+      circulolol_40: 2813076281543521444
+      circulolol_41: -4953205951427601499
+      circulolol_42: -1606086065892253770
+      circulolol_43: 4030600249804352372
+      circulolol_44: -6295107578987381765
+      circulolol_45: -1143049852915152512
+      circulolol_46: -6472469651485911635
+      circulolol_47: 7690165052374290659
+      circulolol_48: -985590746554286282
+      circulolol_49: -6734626258503557349
+      circulolol_5: -6248338409586852644
+      circulolol_50: 7900114565033029076
+      circulolol_51: 1666800482885252875
+      circulolol_52: -4789687114194433183
+      circulolol_53: 5354822990347482042
+      circulolol_54: 6800041380980209203
+      circulolol_55: 8125397594499247511
+      circulolol_56: 5764404122187605028
+      circulolol_57: -1583834120666724367
+      circulolol_58: -6438569542756889256
+      circulolol_59: 4289283696259534204
+      circulolol_6: -9065206873367141210
+      circulolol_60: -6585207139041665887
+      circulolol_61: 1484579388791411741
+      circulolol_62: 1120166649105207208
+      circulolol_63: -3833626295555020450
+      circulolol_64: 3825673647793562120
+      circulolol_65: 6725670849381109386
+      circulolol_66: 7306865162553102975
+      circulolol_67: 6105789862601869120
+      circulolol_68: -952244104190394317
+      circulolol_69: -2143086421340242462
+      circulolol_7: -922761183120374761
+      circulolol_70: -7901779968253669121
+      circulolol_71: -120264764038205416
+      circulolol_72: -6150663252089608181
+      circulolol_73: -4970437277436914461
+      circulolol_74: -5597546445553611585
+      circulolol_75: -4174606992740832134
+      circulolol_76: -2015224159484046995
+      circulolol_77: 3507925754019026745
+      circulolol_78: 6102242446744829780
+      circulolol_79: -3017082365778025541
+      circulolol_8: 5511699257338369329
+      circulolol_80: 1743850289402092092
+      circulolol_81: -1086746922207273537
+      circulolol_82: 910471471430807499
+      circulolol_83: 328883843089080525
+      circulolol_84: 3579311510126970014
+      circulolol_85: 8896031344472211185
+      circulolol_86: -7444777898454672116
+      circulolol_87: -6405907634328986406
+      circulolol_88: -6033702659651097288
+      circulolol_89: 4732797142946220544
+      circulolol_9: -3157999988669185281
+      circulolol_90: -6952517594616497272
+      circulolol_91: -7130648671812898986
+      circulolol_92: 8933290946047528392
+      circulolol_93: 6156722277423854435
+      circulolol_94: -8898889800136806781
+      circulolol_95: 254963720635369167
+      circulolol_96: 8756747070324259562
+      circulolol_97: 2410331445297676519
+      circulolol_98: -2630799067341118690
+      circulolol_99: 5435850509961634829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
